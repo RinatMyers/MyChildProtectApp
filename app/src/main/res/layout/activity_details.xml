@@ -9,7 +9,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.win10user.mychildprotectapp.DetailsActivity">
+    tools:context="com.example.win10user.mychildprotectapp.Activities.DetailsActivity">
 
     <!-- Login progress -->
 

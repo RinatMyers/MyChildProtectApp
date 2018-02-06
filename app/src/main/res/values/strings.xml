@@ -18,4 +18,9 @@
     <string name="child_name">Child name</string>
     <string name="parent_phone_number">Parent phone number</string>
     <string name="child_phone_number">Child phone number</string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+    <string name="enter_name">Please enter your name !</string>
+    <string name="user_name">User Name</string>
 </resources>
