@@ -3,7 +3,7 @@
 
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
-    <string name="prompt_password">Password (optional)</string>
+    <string name="prompt_password">Password</string>
     <string name="action_sign_in">Sign in or register</string>
     <string name="action_sign_in_short">Sign in</string>
     <string name="error_invalid_email">This email address is invalid</string>
@@ -16,11 +16,13 @@
     <string name="title_activity_details">DetailsActivity</string>
     <string name="parent_name">Parent name</string>
     <string name="child_name">Child name</string>
-    <string name="parent_phone_number">Parent phone number</string>
-    <string name="child_phone_number">Child phone number</string>
+    <string name="parent_phone_number">Parent phone</string>
+    <string name="child_phone_number">Child phone</string>
     <string name="title_activity_main">MainActivity</string>
 
 
-    <string name="enter_name">Please enter your name !</string>
-    <string name="user_name">User Name</string>
+    <string name="enter_name">Please enter full name </string>
+    <string name="enter_child_name">Please enter full name </string>
+    <string name="enter_phone">Please enter phone number </string>
+    <string name="enter_child_phone">Please enter phone number </string>
 </resources>
