@@ -25,4 +25,9 @@
     <string name="enter_child_name">Please enter full name </string>
     <string name="enter_phone">Please enter phone number </string>
     <string name="enter_child_phone">Please enter phone number </string>
+
+    <string name="check_location">CHECK LOCATION </string>
+    <string name="listen_env">LISTEN </string>
+    <string name="give_acall">CALL</string>
+    <string name="alert">Your Child Needs Your Help</string>
 </resources>
